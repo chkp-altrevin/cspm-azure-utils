@@ -1,5 +1,5 @@
 ## Enable SQL Server Auditing
-If you want to enrich your third partys you may want to enable.
+If you want to enrich your third partys you may want to enable. Most folks probably already have most if not all below enabled, however it's nice to have a quick check list.
 To find login audit logs for an Azure SQL server using the Azure CLI, you'll need to ensure that auditing is enabled on the server and then query the relevant logs. Below is a step-by-step guide with detailed examples.
 
 ---
