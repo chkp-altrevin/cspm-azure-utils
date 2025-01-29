@@ -2,6 +2,7 @@
 If you want to enrich your third partys you may want to enable. Most folks probably already have most if not all below enabled, however it's nice to have a quick check list.
 To find login audit logs for an Azure SQL server using the Azure CLI, you'll need to ensure that auditing is enabled on the server and then query the relevant logs. Below is a step-by-step guide with detailed examples.
 
+[additional reference](https://learn.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-event-log-azure-sql-database?view=azuresqldb-current)
 ---
 
 ### **Step 1: Enable Azure SQL Auditing (if not already enabled)**
